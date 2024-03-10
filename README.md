@@ -11,8 +11,7 @@ Welcome to the MERN Chat App Tutorial series! In this guide, you'll learn how to
 1. **Install Node.js and npm**: Make sure you have Node.js and npm installed on your system. You can download and install them from [Node.js official website](https://nodejs.org/).
 2. **Set Up MongoDB**: Install MongoDB on your machine or use a cloud-based MongoDB service. Follow the instructions provided in the [MongoDB documentation](https://docs.mongodb.com/manual/installation/).
 3. **Clone the Repository**: Clone the MERN Chat App repository from GitHub:
-
-git clone https://github.com/Surabhi888/Chat_App.git
+     git clone https://github.com/Surabhi888/Chat_App.git
 
 4. **Navigate to the Project Directory**: Use the `cd` command to move into the project directory:
 cd mern-chat-app
